@@ -42,3 +42,21 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   -[] Converter a string "RaFaEl"
 - [x]  Código do desafio Rocketseat
   - "#rumoaoproximonivel"
+
+### Aula-02
+
+- [x] Migrations do Ecto
+- [x] O que são schemmas e changesets
+- [x] Encriptando o password do usuário
+- [x] Criando um usuário de forma mais simples
+- [x] O padrão Facade
+- [x] Lidando com erros com o Fallback Controller
+- [x] Código do desafio aula-02: "#jornadainfinita"
+
+### aula-03
+
+- []
+- []
+- []
+- []
+- []
