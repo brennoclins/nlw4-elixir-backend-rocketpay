@@ -55,8 +55,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 ### aula-03
 
-- []
-- []
-- []
-- []
-- []
+- [x] Lidando com erros com o Fallback Controller
+- [x] Schema e Migration para a Conta
+- [x] Criando a conta automaticamente ao criar usuario
+- [x] Realizando depositos
+- [x] Realizando saques
+- [x] Código desafio aula-3: "#focopraticagrupo"
