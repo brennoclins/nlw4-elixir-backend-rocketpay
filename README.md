@@ -61,3 +61,13 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 - [x] Realizando depositos
 - [x] Realizando saques
 - [x] Código desafio aula-3: "#focopraticagrupo"
+
+### aula-04
+
+- [x] Realizar saques (withdraw)
+- [x] Criar view para o update de saldo
+- [x] Refatorando os depósitos e saques
+- [x] Realizando transferencias
+- [x] Criando uma struct para a resposta
+- [] Breve demonstração sobre Tasks e Processos "Ops"
+- [x] Código da aula-4: "#neverstoplearning"
