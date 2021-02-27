@@ -71,3 +71,18 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 - [x] Criando uma struct para a resposta
 - [] Breve demonstração sobre Tasks e Processos "Ops"
 - [x] Código da aula-4: "#neverstoplearning"
+
+### aula-5
+
+- [x] Breve demonstração sobre Tasks e Processos
+- [x] Autenticando nossos requests
+- [x] A lib excoveralls
+- [x] Um teste de lógica
+- [x] Um teste de Controller
+- [x] Um teste de View
+- [x] Tomando nossos testes Paralelos
+- [x] A milha extra
+- [x] Código aula-5: "#missioncomplete"
+
+inicio aula 09:15
+fim aula:
